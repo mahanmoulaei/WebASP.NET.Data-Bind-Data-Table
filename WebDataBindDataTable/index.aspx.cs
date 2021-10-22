@@ -13,5 +13,20 @@ namespace WebDataBindDataTable
         {
 
         }
+
+        protected void lstCourses_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void cboTeachers_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void gridResults_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
